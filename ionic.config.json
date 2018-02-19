@@ -1,0 +1,8 @@
+{
+  "name": "100daysofrunning",
+  "app_id": "252d5d3c",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
